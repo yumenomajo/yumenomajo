@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ee51737e-f8cd-4056-b77a-b9a86efc3f7f)- 👋 Hi, I’m @yumenomajo
+👋 Hi, I’m @yumenomajo
 - 👀 I’m interested in Statistics,Data Science,Computer Science.
 - 🌱 I’m currently learning Statistics,Data Science
 - 💞️ I’m looking to collaborate on learning
