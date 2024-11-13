@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @yumenomajo
-- 👀 I’m interested in Statistics,Data Science,Computer Science.//Anime,Visual Novel.
+![image](https://github.com/user-attachments/assets/ee51737e-f8cd-4056-b77a-b9a86efc3f7f)- 👋 Hi, I’m @yumenomajo
+- 👀 I’m interested in Statistics,Data Science,Computer Science.
 - 🌱 I’m currently learning Statistics,Data Science
 - 💞️ I’m looking to collaborate on learning
-- 📫 How to reach me ...
+- 📫 How to reach me qq:528721208
 - 😄 Pronouns: 一切都是为了延续希望。
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Anime,Visual Novel.
 
 <!---
 yumenomajo/yumenomajo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
