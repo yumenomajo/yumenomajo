@@ -1,7 +1,6 @@
-👋 Hi, I’m @yumenomajo
+👋 Hi, I’m @yumenomajo personal blog:gunjo-radio-ii.cc
 - 👀 I’m interested in Statistics,Data Science,Computer Science.
 - 🌱 I’m currently learning Statistics,Data Science
-- 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me qq:528721208
 - 😄 Pronouns: 一切都是为了延续希望。
 - ⚡ Fun fact: Anime,Visual Novel.
